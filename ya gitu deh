@@ -35,7 +35,7 @@ function f()
 </head>
 <body>
 <h1>HALO SAYANGGG<h1>
-<img alt="muka devi" src="http://localhost/buat_devi/devi.jpeg" height="200" />
+<img alt="muka devi" src="devi.jpeg" height="200" />
 <h1 style="#">mau jadi pacar aku ga yang???</h1>
 <div id="By" style="position:absolute; left:64px; top:370px; width:210px;
 height:210px;">
